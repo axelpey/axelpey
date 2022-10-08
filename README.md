@@ -24,6 +24,8 @@ I use different technological skills for these projects, ranging from pure maths
 - 🌊🌎 [The Ocean Cleanup Plastic Tracker](https://theoceancleanup.com/plastic-tracker/) - A web-app using my research at The Ocean Cleanup to show you where your plastic might end up in the ocean when you abandon it on land. To date, more than 100k + users.
 
 
+## Work experience, Research, Papers, studies...  
+
 See more information on [my website](axelpey.github.io).
 
 
