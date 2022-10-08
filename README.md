@@ -15,6 +15,15 @@
 
 I'm Axel, a Computer Scientist passionate about solving big issues of our world. My interests have ranged from cleaning ocean plastic pollution 🌊 to countering fake news and polarization online ✌.
 
+I use different technological skills for these projects, ranging from pure maths and graph theory, to full-stack software development, Machine Learning, High-Performance Computing and UI/UX design.
+
+## Current and previous public projects
+
+- ✌️ [Along - getalong.io](https://getalong.io) - A plugin comment system for websites based on annotations, designed to provide a healthier, anti-polarization experience for you and your readers. Deployed on [The Stanford Daily](https://stanforddaily.com).
+
+- 🌊🌎 [The Ocean Cleanup Plastic Tracker](https://theoceancleanup.com/plastic-tracker/) - A web-app using my research at The Ocean Cleanup to show you where your plastic might end up in the ocean when you abandon it on land. To date, more than 100k + users.
+
+
 See more information on [my website](axelpey.github.io).
 
 
