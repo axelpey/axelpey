@@ -35,7 +35,7 @@ I use different technological skills for these projects, ranging from pure maths
 
 ## Work experience, Research, Papers, studies...  
 
-See more information on [my website](axelpey.github.io).
+See more information on [my website](https://axelpey.github.io/).
 
 
 
