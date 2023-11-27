@@ -7,11 +7,11 @@
 </a>
 &nbsp;
 <a href="https://twitter.com/AxelPeytavin">
-  <img alt="Axel Peytavin | Twitter" width="22px" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/twitter.svg" />
+  <img alt="Axel Peytavin | X" width="22px" src="https://upload.wikimedia.org/wikipedia/commons/9/95/Twitter_new_X_logo.png" />
 </a>
 &nbsp;
 <a href="https://www.linkedin.com/in/axel-peytavin/">
-  <img alt="Axel Peytavin | LinkedIN" width="22px" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/linkedin.svg" />
+  <img alt="Axel Peytavin | LinkedIN" width="22px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/c/ca/LinkedIn_logo_initials.png/640px-LinkedIn_logo_initials.png" />
 </a>
 &nbsp;
 <a href="https://www.researchgate.net/profile/Axel-Peytavin/research">
@@ -26,9 +26,11 @@ I use different technological skills for these projects, ranging from pure maths
 
 ## Current and previous public projects
 
-- ✌️ &nbsp; [Along - getalong.io](https://getalong.io) - A plugin comment system for websites based on annotations, designed to provide a healthier, anti-polarization experience for you and your readers. Deployed on [The Stanford Daily](https://stanforddaily.com).
+- ✈️🌎 &nbsp; [TravelGPT.green](https://www.travelgpt.green) - A website using multiple generative AIs to make creative sustainable traveling ideas as alternatives for users plans, in order to make them emit less CO2 for travel.
 
-- 🌊🌎 &nbsp; [The Ocean Cleanup Plastic Tracker](https://theoceancleanup.com/plastic-tracker/) - A web-app using my research at The Ocean Cleanup to show you where your plastic might end up in the ocean when you abandon it on land. To date, more than 100k + users.
+- ✌️ &nbsp; [Along - getalong.io](https://getalong.io) - A plugin comment system for websites based on annotations, designed to provide a healthier, anti-polarization experience for you and your readers. Deployed on [The Stanford Daily](https://stanforddaily.com) & [The Salt Lake Tribune](https://sltrib.com) - total 6.5M+ readers monthly.
+
+- 🌊🌎 &nbsp; [The Ocean Cleanup Plastic Tracker](https://theoceancleanup.com/plastic-tracker/) - A web-app using my research at The Ocean Cleanup to show you where your plastic might end up in the ocean when you abandon it on land. To date, more than 150k + users.
 
 - ⚙️🌎 &nbsp; [Ocean Plastic Assimilator](https://github.com/TheOceanCleanupAlgorithms/Ocean-Plastic-Assimilator) - A data assimilation algorithm for ocean plastic lagrangian dispersion models.
 
