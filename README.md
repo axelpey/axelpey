@@ -26,6 +26,10 @@ I use different technological skills for these projects, ranging from pure maths
 
 ## Current and previous public projects
 
+- 👨‍💻👥 &nbsp; [OpenArchitect](https://github.com/OpenArchitectAI/open-architect) - Develop software 10x faster by spawning an army of AI software engineers to code in your repo, work togetherm, while you supervise their work.
+
+- 🖼️🤖 &nbsp; [NaturalFrontend](https://github.com/axelpey/natural-frontend) - A one-liner to have your FastAPI backend generate frontend code automatically for different kinds of users you might have. The agent understands everything about your code and does it for you!
+
 - ✈️🌎 &nbsp; [TravelGPT.green](https://www.travelgpt.green) - A website using multiple generative AIs to make creative sustainable traveling ideas as alternatives for users plans, in order to make them emit less CO2 for travel.
 
 - ✌️ &nbsp; [Along - getalong.io](https://getalong.io) - A plugin comment system for websites based on annotations, designed to provide a healthier, anti-polarization experience for you and your readers. Deployed on [The Stanford Daily](https://stanforddaily.com) & [The Salt Lake Tribune](https://sltrib.com) - total 6.5M+ readers monthly.
