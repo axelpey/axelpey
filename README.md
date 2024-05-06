@@ -20,7 +20,7 @@
 </p>
 
 
-I'm Axel, a Computer Scientist passionate about solving big issues of our world. My interests have ranged from cleaning ocean plastic pollution 🌊 to countering fake news and polarization online ✌.
+I'm Axel, a Computer Scientist passionate about solving big issues of our world. My interests have ranged from cleaning ocean plastic pollution 🌊, to countering fake news and polarization online ✌, and building 🤖 general-purpose robots using embodied AI.
 
 I use different technological skills for these projects, ranging from pure maths and graph theory, to full-stack software development, Machine Learning, High-Performance Computing and UI/UX design.
 
@@ -34,6 +34,8 @@ I use different technological skills for these projects, ranging from pure maths
 
 - ✌️ &nbsp; [Along - getalong.io](https://getalong.io) - A plugin comment system for websites based on annotations, designed to provide a healthier, anti-polarization experience for you and your readers. Deployed on [The Stanford Daily](https://stanforddaily.com) & [The Salt Lake Tribune](https://sltrib.com) - total 6.5M+ readers monthly.
 
+- 🧠⌚️ &nbsp; [Friend](https://github.com/BasedHardware/Friend) - An open-source, super-affordable AI wearable that listens to what you say during the day, transcribes it and allows many use-cases based on it. Built at the SF Mistral AI Hackathon 2024.
+
 - 🌊🌎 &nbsp; [The Ocean Cleanup Plastic Tracker](https://theoceancleanup.com/plastic-tracker/) - A web-app using my research at The Ocean Cleanup to show you where your plastic might end up in the ocean when you abandon it on land. To date, more than 150k + users.
 
 - ⚙️🌎 &nbsp; [Ocean Plastic Assimilator](https://github.com/TheOceanCleanupAlgorithms/Ocean-Plastic-Assimilator) - A data assimilation algorithm for ocean plastic lagrangian dispersion models.
@@ -42,21 +44,3 @@ I use different technological skills for these projects, ranging from pure maths
 ## Work experience, Research, Papers, studies...  
 
 See more information on [my website](https://axelpey.github.io/).
-
-
-
-<!--
-**axelpey/axelpey** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
-
