@@ -26,6 +26,8 @@ I use different technological skills for these projects, ranging from pure maths
 
 ## Current and previous public projects
 
+- 🕰️🧠 &nbsp; [Timescribe](https://timescribe.org) - An AI-based productivity app that watches your activity during the day to give you reports and help you work better. Running completely locally for guaranteed privacy.
+
 - 👨‍💻👥 &nbsp; [OpenArchitect](https://github.com/OpenArchitectAI/open-architect) - Develop software 10x faster by spawning an army of AI software engineers to code in your repo, work togetherm, while you supervise their work.
 
 - 🖼️🤖 &nbsp; [NaturalFrontend](https://github.com/axelpey/natural-frontend) - A one-liner to have your FastAPI backend generate frontend code automatically for different kinds of users you might have. The agent understands everything about your code and does it for you!
