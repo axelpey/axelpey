@@ -20,11 +20,13 @@
 </p>
 
 
-I'm Axel, a Computer Scientist passionate about solving big issues of our world. My interests have ranged from cleaning ocean plastic pollution 🌊, to countering fake news and polarization online ✌, and building 🤖 general-purpose robots using embodied AI.
+I'm Axel, a Computer Scientist passionate about making useful things for fellow humans. My interests have ranged from cleaning ocean plastic pollution 🌊, to countering fake news and polarization online ✌, and building 🤖 general-purpose robots using embodied AI.
 
 I use different technological skills for these projects, ranging from pure maths and graph theory, to full-stack software development, Machine Learning, High-Performance Computing and UI/UX design.
 
 ## Current and previous public projects
+
+- 🤖 - The coolest project I've ever worked on
 
 - 🕰️🧠 &nbsp; [Timescribe](https://timescribe.org) - An AI-based productivity app that watches your activity during the day to give you reports and help you work better. Running completely locally for guaranteed privacy.
 
